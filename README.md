@@ -30,3 +30,14 @@ Más que solo código, es una oportunidad para experimentar, crecer y fortalecer
 
 El esfuerzo extra que inviertas hoy será el **skill** que te diferencie mañana.  
 Avanza a tu ritmo, pero nunca dejes de compartir el viaje con el equipo.
+
+# Equipos de Kidemma
+
+## Admin Members
+El equipo de administradores impulsa la visión del proyecto y trabaja constantemente para que el equipo crezca, colabore y alcance el éxito.
+Jorge Luis Hernández - Product Manager [@jjx51](https://github.com/jjx51)
+Victor Aquino - Delivery Lead [@JoeMan97](https://github.com/JoeMan97)
+Omar García - Scrum Master
+Jose Carrillo - Product Support Analyst [@JoeMan97](https://github.com/JoeMan97)
+Lino Eduardo Alonso - Team Success Coordinator [@linoxdev](https://github.com/linoxdev)
+Javier Cuellar - Team Success Coordinator [@JavierCuellar93](https://github.com/JavierCuellar93)
